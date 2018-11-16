@@ -1,2 +1,2 @@
 # binaryexprtree-example
-Binary Expression Tree exampl
+Binary Expression Tree example
